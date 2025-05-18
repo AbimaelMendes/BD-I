@@ -1,4 +1,4 @@
 # BD-I
 Disciplina de banco de dados UFFS
 
-Na raiz do projeto contém o arquivo 'Requesitos funcionais.pdf' descrevendo todos os requisitos que devem ser implementado pelo sistema.
+- Na raiz do projeto encontra-se o arquivo 'Requisitos Funcionais.pdf', o qual documenta detalhadamente todos os requisitos funcionais que deverão ser implementados pelo sistema.
