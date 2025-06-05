@@ -1,3 +1,7 @@
+Estudantes:
+Abimael Mendes
+Marcos Picolli
+
 # BD-I
 Disciplina de banco de dados UFFS
 
