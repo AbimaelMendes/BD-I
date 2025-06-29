@@ -11,3 +11,6 @@ Na raiz do projeto encontra-se:
 -O arquivo 'Requisitos Funcionais.pdf', que descreve todos os requisitos funcionais do sistema.
 
 -O arquivo 'Modelo Conceitual.png', que apresenta o modelo conceitual do banco de dados do projeto.
+
+-O arquivo 'Relational Logical Model.pdf', que apresenta o modelo logico do banco de dados do projeto.
+ 
